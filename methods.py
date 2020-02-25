@@ -1,5 +1,5 @@
 from data_bridge import *
-from cv2 import cv2
+#from cv2 import cv2
 import os
 import cv2
 import coco
